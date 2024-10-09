@@ -1,8 +1,0 @@
-com\MowaxBank\ServiceIMPL\BankServiceImpl.class
-com\MowaxBank\Controller\BankController.class
-com\MowaxBank\Exception\ResourceNotFound.class
-com\MowaxBank\Model\BankRegestration.class
-com\MowaxBank\Controller\BankUIController.class
-com\MowaxBank\MowaxBankApplication.class
-com\MowaxBank\Service\BankService.class
-com\MowaxBank\Repository\BankRepository.class
